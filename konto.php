@@ -92,7 +92,6 @@ Sklep
 
 	}
 
-echo "<br/><a href=\"wyslij.php\"> [ Wyślij ] </a> ";
 
 echo "<a href=\"usun.php\"> [ Usuń ] </a> <br/>";
 	
